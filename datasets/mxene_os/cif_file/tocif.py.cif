@@ -1,0 +1,2 @@
+data_
+_audit_creation_method           'pos2cif.pl'

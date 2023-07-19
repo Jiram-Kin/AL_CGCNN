@@ -13,7 +13,7 @@ Setup the required environment using `environment.yml` with Anaconda. While in t
 
 Activate the environment
 
-    conda activate KPGT
+    conda activate ALCGC
 
 ## Using this model
 
